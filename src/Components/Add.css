@@ -55,6 +55,20 @@ input{
 
 /* ******************************************DashBoard */
 .length{
-    font-size: 8rem;
+    font-size: 900%;
     font-weight: bolder;
 }
+
+@media screen and (max-width:480px) {
+    .length{
+        font-size: 300%;
+        font-weight: bolder;
+    }
+    .lengthof{
+        font-size: 150%;
+        font-weight: normal;
+    }
+}
+
+
+    

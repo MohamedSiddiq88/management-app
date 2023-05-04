@@ -19,7 +19,7 @@ function DashBoard({ stuData, techData }) {
                             <h1 className="length">
                                 {stuData.length}
                             </h1>
-                            <h1>
+                            <h1 className="lengthof">
                                 Students
                             </h1>
                         </div>
@@ -29,7 +29,7 @@ function DashBoard({ stuData, techData }) {
                             <h1 className="length">
                                 {techData.length}
                             </h1>
-                            <h1>
+                            <h1 className="lengthof">
                                 Teachers
                             </h1>
                         </div>

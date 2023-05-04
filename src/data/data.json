@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Rohit Sharma",
+        "age": 16,
+        "gender": "Male",
+        "class": "X",
+        "bloodGroup": "B+"
+    },
+    {
+        "name": "Sneha Singh",
+        "age": 15,
+        "gender": "Female",
+        "class": "X",
+        "bloodGroup": "AB+"
+    },
+    {
+        "name": "Ravi Kumar",
+        "age": 17,
+        "gender": "Male",
+        "class": "XI",
+        "bloodGroup": "A+"
+    },
+    {
+        "name": "Priya Gupta",
+        "age": 16,
+        "gender": "Female",
+        "class": "X",
+        "bloodGroup": "O+"
+    },
+    {
+        "name": "Amit Verma",
+        "age": 17,
+        "gender": "Male",
+        "class": "XI",
+        "bloodGroup": "B-"
+    },
+    {
+        "name": "Neha Singh",
+        "age": 16,
+        "gender": "Female",
+        "class": "X",
+        "bloodGroup": "O+"
+    },
+    {
+        "name": "Raj Kumar",
+        "age": 18,
+        "gender": "Male",
+        "class": "XII",
+        "bloodGroup": "AB-"
+    },
+    {
+        "name": "Sunita Yadav",
+        "age": 17,
+        "gender": "Female",
+        "class": "XI",
+        "bloodGroup": "A-"
+    },
+    {
+        "name": "Rajat Sharma",
+        "age": 16,
+        "gender": "Male",
+        "class": "X",
+        "bloodGroup": "O+"
+    },
+    {
+        "name": "Anjali Singh",
+        "age": 18,
+        "gender": "Female",
+        "class": "XII",
+        "bloodGroup": "B+"
+    },
+    {
+        "name": "Suresh Kumar",
+        "age": 16,
+        "gender": "Male",
+        "class": "X",
+        "bloodGroup": "O-"
+    },
+    {
+        "name": "Amita Gupta",
+        "age": 17,
+        "gender": "Female",
+        "class": "XI",
+        "bloodGroup": "B+"
+    },
+    {
+        "name": "Manoj Verma",
+        "age": 16,
+        "gender": "Male",
+        "class": "X",
+        "bloodGroup": "A+"
+    },
+    {
+        "name": "Shilpa Singh",
+        "age": 15,
+        "gender": "Female",
+        "class": "X",
+        "bloodGroup": "AB-"
+    },
+    {
+        "name": "Vikas Kumar",
+        "age": 17,
+        "gender": "Male",
+        "class": "XI",
+        "bloodGroup": "O+"
+    },
+    {
+        "name": "Alok Yadav",
+        "age": 16,
+        "gender": "Male",
+        "class": "X",
+        "bloodGroup": "B+"
+    },
+    {
+        "name": "Soniya Sharma",
+        "age": 18,
+        "gender": "Female",
+        "class": "XII",
+        "bloodGroup": "O+"
+    }
+]

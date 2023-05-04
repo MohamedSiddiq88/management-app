@@ -1,0 +1,38 @@
+[
+    {
+      "name": "John Smith",
+      "age": 35,
+      "gender": "Male",
+      "subject": "Mathematics",
+      "bloodGroup": "A+"
+    },
+    {
+      "name": "Emily Davis",
+      "age": 28,
+      "gender": "Female",
+      "subject": "English",
+      "bloodGroup": "O+"
+    },
+    {
+      "name": "David Lee",
+      "age": 42,
+      "gender": "Male",
+      "subject": "Science",
+      "bloodGroup": "B-"
+    },
+    {
+      "name": "Karen Johnson",
+      "age": 39,
+      "gender": "Female",
+      "subject": "Social Studies",
+      "bloodGroup": "AB+"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 45,
+      "gender": "Male",
+      "subject": "Physical Education",
+      "bloodGroup": "O-"
+    }
+  ]
+  

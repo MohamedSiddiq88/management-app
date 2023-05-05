@@ -1,9 +1,17 @@
 .add-btn-div{
-    padding: 0.5rem;
+    padding: 0.5rem 0;
     text-align: left;
     width: fit-content;
 }
 
+mark{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.msg{
+    display: none;
+}
 
 .add-container{
     /* background-color: brown ; */
@@ -33,10 +41,13 @@
     
 }
 
+.table-col{
+    overflow-x: scroll;
+}
+
 .btn{
     width: 100%;
     height: 10%;
-    
 }
 
 .add-heading{
@@ -67,6 +78,9 @@ input{
     .lengthof{
         font-size: 150%;
         font-weight: normal;
+    }
+    .msg{
+        display: block;
     }
 }
 

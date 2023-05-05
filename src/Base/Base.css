@@ -58,6 +58,7 @@ tr:nth-child(even){
     gap: 1.5rem;
     padding: 1.5rem 0;
     cursor: pointer;
+    z-index: 999;
 }
 
 .group{
@@ -90,7 +91,9 @@ span{
 }
 
 
+
 @media screen and (max-width:480px) {
+
     .sidebar{
         width: 6rem;
     }

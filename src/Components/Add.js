@@ -28,42 +28,44 @@ function Add({ data, setData }) {
     >
 
 
-      {/* row*/}
-      <div className="row add-container">
+      <div className="container">
+        {/* row*/}
+        <div className="row add-container">
 
 
+          {/* col */}
+          <div className="col-12">
 
+            {/* col add-form*/}
+            <form className="container add-form " onSubmit={handelsubmit}>
+              <h1 className="add-heading"><b>Add Student's Data</b></h1>
+              <table>
+                <tr>
+                  <th>Name:</th>
+                  <td><input placeholder='Enter Name' required name='name'></input></td>
+                </tr>
+                <tr>
+                  <th>Age:</th>
+                  <td><input type="number" placeholder='Enter Age' required name='age' ></input></td>
+                </tr>
+                <tr>
+                  <th>Gender:</th>
+                  <td><input placeholder='Enter Gender' required name='gender'></input></td>
+                </tr>
+                <tr>
+                  <th>Class:</th>
+                  <td><input placeholder='Enter Class' required name='class'></input></td>
+                </tr>
+                <tr>
+                  <th>Blood Group:</th>
+                  <td><input placeholder='Enter Blood Group' required name='bloodgroup'></input></td>
+                </tr>
+              </table>
 
-
-
-        {/* col add-form*/}
-        <form className="container add-form " onSubmit={handelsubmit}>
-          <h1 className="add-heading"><b>Add Student's Data</b></h1>
-          <table>
-            <tr>
-              <th>Name:</th>
-              <td><input placeholder='Enter Name' required name='name'></input></td>
-            </tr>
-            <tr>
-              <th>Age:</th>
-              <td><input type="number" placeholder='Enter Age' required name='age' ></input></td>
-            </tr>
-            <tr>
-              <th>Gender:</th>
-              <td><input placeholder='Enter Gender' required name='gender'></input></td>
-            </tr>
-            <tr>
-              <th>Class:</th>
-              <td><input placeholder='Enter Class' required name='class'></input></td>
-            </tr>
-            <tr>
-              <th>Blood Group:</th>
-              <td><input placeholder='Enter Blood Group' required name='bloodgroup'></input></td>
-            </tr>
-          </table>
-
-          <button className='btn btn-success'>Add</button>
-        </form>
+              <button className='btn btn-success'>Add</button>
+            </form>
+          </div>
+        </div>
       </div>
 
 

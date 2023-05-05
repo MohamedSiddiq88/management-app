@@ -18,7 +18,7 @@ function Base({ title, heading, children }) {
 
             <div className="row">
 
-                <div className="col-2 col">
+                <div className="col-2 left-col">
                     <SideBar></SideBar>
                 </div>
 
